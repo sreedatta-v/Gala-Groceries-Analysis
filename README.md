@@ -1,4 +1,5 @@
 # Gala-Groceries-Analysis
+Task Info by [Congnizant](https://www.theforage.com/virtual-experience/5N2ygyhzMWjKQmgCK/cognizant/artificial-intelligence-rtbq/exploratory-data-analysis)
 
 ## About Gala Groceries
 Gala Groceries is a technology-led grocery store chain based in the USA. They rely heavily on new technologies, such as IoT to give them a competitive edge over other grocery stores.  
